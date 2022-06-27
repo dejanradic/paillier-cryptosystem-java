@@ -1,2 +1,3 @@
-# paillier-cryptosystem-java
- Implementation of Paillier Cryptosystem in Java
+# Paillier Cryptosystem in Java
+More information at Slideshare:
+https://www.slideshare.net/DejanRadi1/paillier-cryptosystem
